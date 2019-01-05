@@ -1,0 +1,3 @@
+peppers.bmp
+imagine_criptat.bmp
+secret_key.txt

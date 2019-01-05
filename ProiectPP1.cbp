@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProiectPP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProiectPP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProiectPP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cifra0.bmp" />
+		<Unit filename="cifra3.bmp" />
+		<Unit filename="cifra3_dim.bmp" />
+		<Unit filename="fereastra.bmp" />
+		<Unit filename="imagine_5x5.bmp" />
+		<Unit filename="imagine_bordata.bmp" />
+		<Unit filename="imagine_criptata.bmp" />
+		<Unit filename="imagine_decriptata.bmp" />
+		<Unit filename="imagine_liniarizata.bmp" />
+		<Unit filename="imagine_matrice.bmp" />
+		<Unit filename="imagine_permutata.bmp" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="peppers.bmp" />
+		<Unit filename="secret_key.txt" />
+		<Unit filename="test.bmp" />
+		<Unit filename="test1.bmp" />
+		<Unit filename="test3.bmp" />
+		<Unit filename="test4.bmp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
