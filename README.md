@@ -4,4 +4,5 @@
 Criptografia și procesarea digitală a imaginilor sunt două domenii foarte importante ale matematicii și informaticii. Tema proiectului combină două probleme din aceste subdomenii și anume criptarea și decriptarea unui mesaj (particularizat în acest proiect la o imagine) și recunoașterea unor pattern-uri (particularizate în acest proiect la cifre scrise de mână) într-o imagine. <br>
 
 
-Cerinta: https://github.com/AndraRaco/Proiect-PP/blob/master/FMI-EnuntProiect.pdf
+Cerinta: https://github.com/AndraRaco/Proiect-PP/blob/master/FMI-EnuntProiect.pdf <br>
+Documentatie: https://github.com/AndraRaco/Proiect-PP/blob/master/Documentație_proiect_PP.pdf
